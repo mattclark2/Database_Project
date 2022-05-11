@@ -19,4 +19,4 @@ The web page that was used to visually highlight the results was designed using 
 - [NetflixApplication](https://apex.oracle.com/pls/apex/r/databasegroup2022/group-15-database-project/home)
 # Additional Documentation
 A report was written on Microsoft Word that explained all of the findings.
--[NetflixReport](file:///Users/mattclark/Desktop/Database%20Management/Database%20Management%20Final%20Report.html)
+-[NetflixReport](https://drive.google.com/file/d/1G3yrFyRS-174N3CZrV_hoObG1DXrhDoo/view?usp=sharing)
