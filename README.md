@@ -15,6 +15,7 @@ An application was designed on Oracle Apex in which there are different tabs on 
 # Files Used
 The dataset used for this project was found on Kaggle. 
 - [NetflixDataset](https://www.kaggle.com/shivamb/netflix-shows)
+
 The web page that was used to visually highlight the results was designed using an Oracle Apex application. 
 - [NetflixApplication](https://apex.oracle.com/pls/apex/r/databasegroup2022/group-15-database-project/home)
 # Additional Documentation
