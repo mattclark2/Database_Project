@@ -19,5 +19,5 @@ The dataset used for this project was found on Kaggle.
 The web page that was used to visually highlight the results was designed using an Oracle Apex application. 
 - [NetflixApplication](https://apex.oracle.com/pls/apex/r/databasegroup2022/group-15-database-project/home)
 # Additional Documentation
-A report was written on Microsoft Word that explained all of the findings.
+A report was written on Microsoft Word that explained all of the findings. This file was then converted to a PDF and uploaded to Google drive.
 - [NetflixReport](https://drive.google.com/file/d/1G3yrFyRS-174N3CZrV_hoObG1DXrhDoo/view?usp=sharing)
